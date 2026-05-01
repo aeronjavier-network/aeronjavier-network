@@ -1,1 +1,14 @@
 // If you have questions, let me know and I will assist you the earliest possible.
+
+
+PROG2 fix..
+
+R200 unable to reach internal network of LAGUNA Branch
+
+issue found
+
+ip route to network 192.168.54.164 <> bridging the MAKATI and LAGUNA branch is not yet configured on MSW500
+
+full connectivity to intermediary and end hosts is live. 
+
+// If you are testing the network i created and found an issue. Contact me and ill fix it the earliest possible.
